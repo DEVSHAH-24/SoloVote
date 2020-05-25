@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "824520090428",
+    "firebase_url": "https://solovote-4db39.firebaseio.com",
+    "project_id": "solovote-4db39",
+    "storage_bucket": "solovote-4db39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824520090428:android:c6f81004862d90eb513439",
+        "android_client_info": {
+          "package_name": "com.ds24.docogenproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824520090428-f1eidds9l9mmvpq0tlccegmrlbp1m93t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ds24.docogenproject",
+            "certificate_hash": "30d78f72c5edf249e1aff3d7b37a3c5eebf2b1ea"
+          }
+        },
+        {
+          "client_id": "824520090428-90vndt9s58hhgu3tj8ale1nkg35lm2hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVtGp37cKDol10wH8-YZXjGqQitGbhH2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824520090428-90vndt9s58hhgu3tj8ale1nkg35lm2hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
